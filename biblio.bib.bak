@@ -18,15 +18,6 @@
   readstatus = {read},
 }
 
-@inproceedings{zhu2022control,
-  title={Control Policy Optimization for Data Harvesting in a Wireless Sensor Network},
-  author={Zhu, Yancheng and Andersson, Sean B},
-  booktitle={2022 IEEE 61st Conference on Decision and Control (CDC)},
-  pages={7437--7442},
-  year={2022},
-  organization={IEEE}
-}
-
 @InProceedings{lan2014variational,
   author       = {Lan, Xiaodong and Schwager, Mac},
   booktitle    = {2014 American Control Conference},
@@ -679,6 +670,17 @@
   volume    = {48},
   file      = {:/home/jonas/PhD/readings/papers/Safety/Xu2015RobustnessofCBFs.pdf:PDF},
   publisher = {Elsevier},
+}
+
+@InProceedings{zhu2022control,
+  author       = {Zhu, Yancheng and Andersson, Sean B},
+  booktitle    = {2022 IEEE 61st Conference on Decision and Control (CDC)},
+  title        = {Control Policy Optimization for Data Harvesting in a Wireless Sensor Network},
+  year         = {2022},
+  organization = {IEEE},
+  pages        = {7437--7442},
+  file         = {:/home/jonas/PhD/readings/papers/PM/Zhu2022Control_Policy_Optimization_for_Data_Harvesting_in_a_Wireless_Sensor_Network.pdf:PDF},
+  groups       = {persistent monitoring},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
