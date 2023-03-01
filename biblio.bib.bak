@@ -18,6 +18,15 @@
   readstatus = {read},
 }
 
+@inproceedings{zhu2022control,
+  title={Control Policy Optimization for Data Harvesting in a Wireless Sensor Network},
+  author={Zhu, Yancheng and Andersson, Sean B},
+  booktitle={2022 IEEE 61st Conference on Decision and Control (CDC)},
+  pages={7437--7442},
+  year={2022},
+  organization={IEEE}
+}
+
 @InProceedings{lan2014variational,
   author       = {Lan, Xiaodong and Schwager, Mac},
   booktitle    = {2014 American Control Conference},
@@ -628,15 +637,16 @@
   publisher = {IEEE},
 }
 
-@article{rawlings2000tutorial,
-  title={Tutorial overview of model predictive control},
-  author={Rawlings, James B},
-  journal={IEEE control systems magazine},
-  volume={20},
-  number={3},
-  pages={38--52},
-  year={2000},
-  publisher={IEEE}
+@Article{rawlings2000tutorial,
+  author    = {Rawlings, James B},
+  journal   = {IEEE control systems magazine},
+  title     = {Tutorial overview of model predictive control},
+  year      = {2000},
+  number    = {3},
+  pages     = {38--52},
+  volume    = {20},
+  file      = {:/home/jonas/PhD/readings/papers/MPC/Rawlings2000Tutorial_overview_of_model_predictive_control.pdf:PDF},
+  publisher = {IEEE},
 }
 
 @InProceedings{alam2018data,
