@@ -18,6 +18,16 @@
   readstatus = {read},
 }
 
+@article{notomista2021online,
+  title={Online robot trajectory optimization for persistent environmental monitoring},
+  author={Notomista, Gennaro and Pacchierotti, Claudio and Giordano, Paolo Robuffo},
+  journal={IEEE Control Systems Letters},
+  volume={6},
+  pages={1472--1477},
+  year={2021},
+  publisher={IEEE}
+}
+
 @InProceedings{lan2014variational,
   author       = {Lan, Xiaodong and Schwager, Mac},
   booktitle    = {2014 American Control Conference},
@@ -705,13 +715,14 @@
   groups       = {persistent monitoring},
 }
 
-@inproceedings{beaver2019decentralized,
-  title={A decentralized control framework for energy-optimal goal assignment and trajectory generation},
-  author={Beaver, Logan E and Malikopoulos, Andreas A},
-  booktitle={2019 IEEE 58th Conference on Decision and Control (CDC)},
-  pages={879--884},
-  year={2019},
-  organization={IEEE}
+@InProceedings{beaver2019decentralized,
+  author       = {Beaver, Logan E and Malikopoulos, Andreas A},
+  booktitle    = {2019 IEEE 58th Conference on Decision and Control (CDC)},
+  title        = {A decentralized control framework for energy-optimal goal assignment and trajectory generation},
+  year         = {2019},
+  organization = {IEEE},
+  pages        = {879--884},
+  file         = {:/home/jonas/PhD/readings/papers/PM/Beaver2019Decentralized.pdf:PDF},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
