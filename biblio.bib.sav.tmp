@@ -117,6 +117,26 @@
   publisher = {Mathematical Sciences Publishers},
 }
 
+@inproceedings{pinto2021tracking,
+  title={Tracking multiple diffusing particles using information optimal control},
+  author={Pinto, Samuel C and Vickers, Nicholas A and Sharifi, Fatemeh and Andersson, Sean B},
+  booktitle={2021 American Control Conference (ACC)},
+  pages={4033--4038},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{smith2011persistentOcean,
+  title={Persistent ocean monitoring with underwater gliders: Adapting sampling resolution},
+  author={Smith, Ryan N and Schwager, Mac and Smith, Stephen L and Jones, Burton H and Rus, Daniela and Sukhatme, Gaurav S},
+  journal={Journal of Field Robotics},
+  volume={28},
+  number={5},
+  pages={714--741},
+  year={2011},
+  publisher={Wiley Online Library}
+}
+
 @Article{yu2015persistent,
   author    = {Yu, Jingjin and Karaman, Sertac and Rus, Daniela},
   journal   = {IEEE Transactions on Robotics},
@@ -408,6 +428,7 @@
   pages     = {550--566},
   volume    = {37},
   file      = {:/home/jonas/PhD/readings/papers/PM/Hari2021Optimal_UAV_Route_Planning_for_Persistent_Monitoring_Missions.pdf:PDF},
+  groups    = {persistent monitoring},
   publisher = {IEEE},
 }
 
@@ -584,24 +605,4 @@
   author    = {Boldrer, Manuel and Lyons, Lorenzo and Palopoli, Luigi and Fontanelli, Daniele and Ferranti, Laura},
   journal   = {IEEE Robotics and Automation Letters},
   title     = {Time-Inverted Kuramoto Model Meets Lissajous Curves: Multi-Robot Persistent Monitoring and Target Detection},
-  year      = {2022},
-  number    = {1},
-  pages     = {240--247},
-  volume    = {8},
-  file      = {:/home/jonas/PhD/readings/papers/PM/Boldrer2023PMKuramotoMeetsLissajous.pdf:PDF},
-  groups    = {persistent monitoring},
-  publisher = {IEEE},
-}
-
-@Article{ames2016control,
-  author    = {Ames, Aaron D and Xu, Xiangru and Grizzle, Jessy W and Tabuada, Paulo},
-  journal   = {IEEE Transactions on Automatic Control},
-  title     = {Control barrier function based quadratic programs for safety critical systems},
-  year      = {2016},
-  number    = {8},
-  pages     = {3861--3876},
-  volume    = {62},
-  file      = {:/home/jonas/PhD/readings/papers/Safety/Ames2017CBF_Quadratic_Programs_for_Safety_Critical_Systems.pdf:PDF},
-  groups    = {CBF},
-  publisher = {IEEE},
-}
+  year 
