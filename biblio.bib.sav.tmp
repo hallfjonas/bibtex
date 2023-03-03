@@ -117,13 +117,14 @@
   publisher = {Mathematical Sciences Publishers},
 }
 
-@inproceedings{pinto2021tracking,
-  title={Tracking multiple diffusing particles using information optimal control},
-  author={Pinto, Samuel C and Vickers, Nicholas A and Sharifi, Fatemeh and Andersson, Sean B},
-  booktitle={2021 American Control Conference (ACC)},
-  pages={4033--4038},
-  year={2021},
-  organization={IEEE}
+@InProceedings{pinto2021tracking,
+  author       = {Pinto, Samuel C and Vickers, Nicholas A and Sharifi, Fatemeh and Andersson, Sean B},
+  booktitle    = {2021 American Control Conference (ACC)},
+  title        = {Tracking multiple diffusing particles using information optimal control},
+  year         = {2021},
+  organization = {IEEE},
+  pages        = {4033--4038},
+  file         = {:/home/jonas/PhD/readings/papers/PM/Pinto2022Tracking_Multiple_Diffusing_Particles_Using_Information_Optimal_Control.pdf:PDF},
 }
 
 @Article{smith2011persistentOcean,
@@ -598,10 +599,4 @@
   number    = {2},
   pages     = {143--183},
   volume    = {20},
-  file      = {:/home/jonas/PhD/readings/papers/misc/Fry2002SmoothBump.pdf:PDF},
-  publisher = {Elsevier},
-}
-
-@Article{boldrer2022time,
-  author    = {Boldrer, Manuel and Lyons, Lorenzo and Palopoli, Luigi and Fontanelli, Daniele and Ferranti, Laura},
-  jo
+  file      = {:/home/jonas/PhD/readings/papers/misc/Fry2002SmoothB
