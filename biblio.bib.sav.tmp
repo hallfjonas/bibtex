@@ -18,6 +18,16 @@
   readstatus = {read},
 }
 
+@article{wachter2006implementation,
+  title={On the implementation of an interior-point filter line-search algorithm for large-scale nonlinear programming},
+  author={W{\"a}chter, Andreas and Biegler, Lorenz T},
+  journal={Mathematical programming},
+  volume={106},
+  pages={25--57},
+  year={2006},
+  publisher={Springer}
+}
+
 @InProceedings{lan2014variational,
   author       = {Lan, Xiaodong and Schwager, Mac},
   booktitle    = {2014 American Control Conference},
@@ -592,11 +602,4 @@
 }
 
 @Article{fry2002smooth,
-  author    = {Fry, Robb and McManus, S},
-  journal   = {Expositiones Mathematicae},
-  title     = {Smooth bump functions and the geometry of Banach spaces: a brief survey},
-  year      = {2002},
-  number    = {2},
-  pages     = {143--183},
-  volume    = {20},
-  file      = {:/home/jonas/PhD/readings/papers/misc/Fry2002SmoothB
+  a
