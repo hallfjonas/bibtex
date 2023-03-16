@@ -18,14 +18,15 @@
   readstatus = {read},
 }
 
-@article{wachter2006implementation,
-  title={On the implementation of an interior-point filter line-search algorithm for large-scale nonlinear programming},
-  author={W{\"a}chter, Andreas and Biegler, Lorenz T},
-  journal={Mathematical programming},
-  volume={106},
-  pages={25--57},
-  year={2006},
-  publisher={Springer}
+@Article{wachter2006implementation,
+  author    = {W{\"a}chter, Andreas and Biegler, Lorenz T},
+  journal   = {Mathematical programming},
+  title     = {On the implementation of an interior-point filter line-search algorithm for large-scale nonlinear programming},
+  year      = {2006},
+  pages     = {25--57},
+  volume    = {106},
+  file      = {:/home/jonas/PhD/readings/papers/optimization/Waechter2006IPOPT.pdf:PDF},
+  publisher = {Springer},
 }
 
 @InProceedings{lan2014variational,
@@ -400,7 +401,7 @@
   pages     = {1--19},
   volume    = {106},
   file      = {:/home/jonas/PhD/readings/papers/PM/Ostertag2022TrajectoryPlanning.pdf:PDF},
-  groups    = {ToRead},
+  groups    = {ToRead, persistent monitoring},
   publisher = {Springer},
 }
 
@@ -597,9 +598,4 @@
   title     = {Projected dynamical systems, evolutionary variational inequalities, applications, and a computational procedure},
   year      = {2008},
   pages     = {387--406},
-  file      = {:/home/jonas/PhD/readings/papers/HybridSystems/Cojocaru2008Projected.pdf:PDF},
-  groups    = {hybrid systems},
-}
-
-@Article{fry2002smooth,
-  a
+  file  
