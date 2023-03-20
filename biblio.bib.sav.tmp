@@ -598,4 +598,204 @@
   title     = {Projected dynamical systems, evolutionary variational inequalities, applications, and a computational procedure},
   year      = {2008},
   pages     = {387--406},
-  file  
+  file      = {:/home/jonas/PhD/readings/papers/HybridSystems/Cojocaru2008Projected.pdf:PDF},
+  groups    = {hybrid systems},
+}
+
+@Article{fry2002smooth,
+  author    = {Fry, Robb and McManus, S},
+  journal   = {Expositiones Mathematicae},
+  title     = {Smooth bump functions and the geometry of Banach spaces: a brief survey},
+  year      = {2002},
+  number    = {2},
+  pages     = {143--183},
+  volume    = {20},
+  file      = {:/home/jonas/PhD/readings/papers/misc/Fry2002SmoothBump.pdf:PDF},
+  publisher = {Elsevier},
+}
+
+@Article{boldrer2022time,
+  author    = {Boldrer, Manuel and Lyons, Lorenzo and Palopoli, Luigi and Fontanelli, Daniele and Ferranti, Laura},
+  journal   = {IEEE Robotics and Automation Letters},
+  title     = {Time-Inverted Kuramoto Model Meets Lissajous Curves: Multi-Robot Persistent Monitoring and Target Detection},
+  year      = {2022},
+  number    = {1},
+  pages     = {240--247},
+  volume    = {8},
+  file      = {:/home/jonas/PhD/readings/papers/PM/Boldrer2023PMKuramotoMeetsLissajous.pdf:PDF},
+  groups    = {persistent monitoring},
+  publisher = {IEEE},
+}
+
+@Article{ames2016control,
+  author    = {Ames, Aaron D and Xu, Xiangru and Grizzle, Jessy W and Tabuada, Paulo},
+  journal   = {IEEE Transactions on Automatic Control},
+  title     = {Control barrier function based quadratic programs for safety critical systems},
+  year      = {2016},
+  number    = {8},
+  pages     = {3861--3876},
+  volume    = {62},
+  file      = {:/home/jonas/PhD/readings/papers/Safety/Ames2017CBF_Quadratic_Programs_for_Safety_Critical_Systems.pdf:PDF},
+  groups    = {CBF},
+  publisher = {IEEE},
+}
+
+@InProceedings{ames2014control,
+  author       = {Ames, Aaron D and Grizzle, Jessy W and Tabuada, Paulo},
+  booktitle    = {53rd IEEE Conference on Decision and Control},
+  title        = {Control barrier function based quadratic programs with application to adaptive cruise control},
+  year         = {2014},
+  organization = {IEEE},
+  pages        = {6271--6278},
+  file         = {:/home/jonas/PhD/readings/papers/Safety/Ames2014CBF_quadratic_programs_with_application_to_adaptive_cruise_control.pdf:PDF},
+  groups       = {CBF},
+}
+
+@Article{xu2011target,
+  author    = {Xu, Enyang and Ding, Zhi and Dasgupta, Soura},
+  journal   = {IEEE Transactions on mobile computing},
+  title     = {Target tracking and mobile sensor navigation in wireless sensor networks},
+  year      = {2011},
+  number    = {1},
+  pages     = {177--186},
+  volume    = {12},
+  file      = {:/home/jonas/PhD/readings/papers/MobileSensorNetworks/Xu2011Target_Tracking_and_Mobile_Sensor_Navigation_in_Wireless_Sensor_Networks.pdf:PDF},
+  publisher = {IEEE},
+}
+
+@Article{rawlings2000tutorial,
+  author    = {Rawlings, James B},
+  journal   = {IEEE control systems magazine},
+  title     = {Tutorial overview of model predictive control},
+  year      = {2000},
+  number    = {3},
+  pages     = {38--52},
+  volume    = {20},
+  file      = {:/home/jonas/PhD/readings/papers/MPC/Rawlings2000Tutorial_overview_of_model_predictive_control.pdf:PDF},
+  publisher = {IEEE},
+}
+
+@InProceedings{alam2018data,
+  author       = {Alam, Tauhidul and Reis, Gregory Murad and Bobadilla, Leonardo and Smith, Ryan N},
+  booktitle    = {2018 second IEEE international conference on robotic computing (IRC)},
+  title        = {A data-driven deployment approach for persistent monitoring in aquatic environments},
+  year         = {2018},
+  organization = {IEEE},
+  pages        = {147--154},
+  file         = {:/home/jonas/PhD/readings/papers/PM/Alam2018A_Data-Driven_Deployment_Approach_for_Persistent_Monitoring_in_Aquatic_Environments.pdf:PDF},
+}
+
+@InProceedings{lee2006efficient,
+  author       = {Lee, Uichin and Magistretti, Eugenio and Zhou, Biao and Gerla, Mario and Bellavista, Paolo and Corradi, Antonio},
+  booktitle    = {Fourth Annual IEEE International Conference on Pervasive Computing and Communications Workshops (PERCOMW'06)},
+  title        = {Efficient data harvesting in mobile sensor platforms},
+  year         = {2006},
+  organization = {IEEE},
+  pages        = {5--pp},
+  file         = {:/home/jonas/PhD/readings/papers/WirelessSensorNetworks/Lee2006EfficientDataHarvesting.pdf:PDF},
+}
+
+@Article{xu2015robustness,
+  author    = {Xu, Xiangru and Tabuada, Paulo and Grizzle, Jessy W and Ames, Aaron D},
+  journal   = {IFAC-PapersOnLine},
+  title     = {Robustness of control barrier functions for safety critical control},
+  year      = {2015},
+  number    = {27},
+  pages     = {54--61},
+  volume    = {48},
+  file      = {:/home/jonas/PhD/readings/papers/Safety/Xu2015RobustnessofCBFs.pdf:PDF},
+  publisher = {Elsevier},
+}
+
+@InProceedings{zhu2022control,
+  author       = {Zhu, Yancheng and Andersson, Sean B},
+  booktitle    = {2022 IEEE 61st Conference on Decision and Control (CDC)},
+  title        = {Control Policy Optimization for Data Harvesting in a Wireless Sensor Network},
+  year         = {2022},
+  organization = {IEEE},
+  pages        = {7437--7442},
+  file         = {:/home/jonas/PhD/readings/papers/PM/Zhu2022Control_Policy_Optimization_for_Data_Harvesting_in_a_Wireless_Sensor_Network.pdf:PDF},
+  groups       = {persistent monitoring},
+}
+
+@InProceedings{beaver2019decentralized,
+  author       = {Beaver, Logan E and Malikopoulos, Andreas A},
+  booktitle    = {2019 IEEE 58th Conference on Decision and Control (CDC)},
+  title        = {A decentralized control framework for energy-optimal goal assignment and trajectory generation},
+  year         = {2019},
+  organization = {IEEE},
+  pages        = {879--884},
+  file         = {:/home/jonas/PhD/readings/papers/MultiAgentSystems/Beaver2019Decentralized.pdf:PDF},
+}
+
+@Article{notomista2021online,
+  author    = {Notomista, Gennaro and Pacchierotti, Claudio and Giordano, Paolo Robuffo},
+  journal   = {IEEE Control Systems Letters},
+  title     = {Online robot trajectory optimization for persistent environmental monitoring},
+  year      = {2021},
+  pages     = {1472--1477},
+  volume    = {6},
+  file      = {:/home/jonas/PhD/readings/papers/PM/Notomista21OnlinePM.pdf:PDF},
+  publisher = {IEEE},
+}
+
+@Book{nocedal1999numerical,
+  author    = {Nocedal, Jorge and Wright, Stephen J},
+  publisher = {Springer},
+  title     = {Numerical optimization},
+  year      = {1999},
+  groups    = {optimization},
+}
+
+@Article{sundar1997optimal,
+  author    = {Sundar, Satish and Shiller, Zvi},
+  journal   = {IEEE transactions on robotics and automation},
+  title     = {Optimal obstacle avoidance based on the Hamilton-Jacobi-Bellman equation},
+  year      = {1997},
+  number    = {2},
+  pages     = {305--310},
+  volume    = {13},
+  file      = {:/home/jonas/PhD/readings/papers/Safety/Sundar1997Optimal_obstacle_avoidance_based_on_the_Hamilton-Jacobi-Bellman_equation.pdf:PDF},
+  groups    = {ObstacleAvoidance},
+  publisher = {IEEE},
+}
+
+@article{kant1986toward,
+  title={Toward efficient trajectory planning: The path-velocity decomposition},
+  author={Kant, Kamal and Zucker, Steven W},
+  journal={The international journal of robotics research},
+  volume={5},
+  number={3},
+  pages={72--89},
+  year={1986},
+  publisher={Sage Publications Sage CA: Thousand Oaks, CA}
+}
+
+
+@Article{lindemann2018control,
+  author    = {Lindemann, Lars and Dimarogonas, Dimos V},
+  journal   = {IEEE control systems letters},
+  title     = {Control barrier functions for signal temporal logic tasks},
+  year      = {2018},
+  number    = {1},
+  pages     = {96--101},
+  volume    = {3},
+  file      = {:/home/jonas/PhD/readings/papers/Safety/Lindemann2019Control_Barrier_Functions_for_Signal_Temporal_Logic_Tasks.pdf:PDF},
+  groups    = {ObstacleAvoidance},
+  publisher = {IEEE},
+}
+
+@Article{lindemann2019control,
+  author    = {Lindemann, Lars and Dimarogonas, Dimos V},
+  journal   = {IEEE control systems letters},
+  title     = {Control barrier functions for multi-agent systems under conflicting local signal temporal logic tasks},
+  year      = {2019},
+  number    = {3},
+  pages     = {757--762},
+  volume    = {3},
+  file      = {:/home/jonas/PhD/readings/papers/Safety/Lindemann2019Control_Barrier_Functions_for_Multi-Agent_Systems_Under_Conflicting_Local_Signal_Temporal_Logic_Tasks.pdf:PDF},
+  groups    = {ObstacleAvoidance},
+  publisher = {IEEE},
+}
+
+@C
