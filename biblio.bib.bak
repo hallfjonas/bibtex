@@ -756,7 +756,7 @@
   pages     = {305--310},
   volume    = {13},
   file      = {:/home/jonas/PhD/readings/papers/Safety/Sundar1997Optimal_obstacle_avoidance_based_on_the_Hamilton-Jacobi-Bellman_equation.pdf:PDF},
-  groups    = {ObstacleAvoidance},
+  groups    = {CBFs},
   publisher = {IEEE},
 }
 
@@ -781,6 +781,7 @@
   pages     = {96--101},
   volume    = {3},
   file      = {:/home/jonas/PhD/readings/papers/Safety/Lindemann2019Control_Barrier_Functions_for_Signal_Temporal_Logic_Tasks.pdf:PDF},
+  groups    = {CBFs},
   publisher = {IEEE},
 }
 
@@ -793,7 +794,16 @@
   pages     = {757--762},
   volume    = {3},
   file      = {:/home/jonas/PhD/readings/papers/Safety/Lindemann2019Control_Barrier_Functions_for_Multi-Agent_Systems_Under_Conflicting_Local_Signal_Temporal_Logic_Tasks.pdf:PDF},
+  groups    = {CBFs},
   publisher = {IEEE},
+}
+
+
+@article{wang2023spatio,
+  title={Spatio-Temporal Attention Network for Persistent Monitoring of Multiple Mobile Targets},
+  author={Wang, Yizhuo and Wang, Yutong and Cao, Yuhong and Sartoretti, Guillaume},
+  journal={arXiv preprint arXiv:2303.06350},
+  year={2023}
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
@@ -808,5 +818,5 @@
 1 StaticGroup:hybrid systems\;0\;1\;0xff0000ff\;\;\;;
 1 StaticGroup:CBF\;0\;1\;0x8a8a8aff\;\;\;;
 1 StaticGroup:optimization\;0\;1\;0x8a8a8aff\;\;\;;
-1 StaticGroup:ObstacleAvoidance\;0\;1\;0x8a8a8aff\;\;\;;
+1 StaticGroup:CBFs\;0\;1\;0x8a8a8aff\;\;\;;
 }

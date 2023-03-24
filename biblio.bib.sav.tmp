@@ -756,7 +756,7 @@
   pages     = {305--310},
   volume    = {13},
   file      = {:/home/jonas/PhD/readings/papers/Safety/Sundar1997Optimal_obstacle_avoidance_based_on_the_Hamilton-Jacobi-Bellman_equation.pdf:PDF},
-  groups    = {ObstacleAvoidance},
+  groups    = {CBFs},
   publisher = {IEEE},
 }
 
@@ -781,7 +781,7 @@
   pages     = {96--101},
   volume    = {3},
   file      = {:/home/jonas/PhD/readings/papers/Safety/Lindemann2019Control_Barrier_Functions_for_Signal_Temporal_Logic_Tasks.pdf:PDF},
-  groups    = {ObstacleAvoidance},
+  groups    = {CBFs},
   publisher = {IEEE},
 }
 
@@ -794,8 +794,10 @@
   pages     = {757--762},
   volume    = {3},
   file      = {:/home/jonas/PhD/readings/papers/Safety/Lindemann2019Control_Barrier_Functions_for_Multi-Agent_Systems_Under_Conflicting_Local_Signal_Temporal_Logic_Tasks.pdf:PDF},
-  groups    = {ObstacleAvoidance},
+  groups    = {CBFs},
   publisher = {IEEE},
 }
 
-@C
+
+@Article{wang2023spatio,
+  author  = {Wa
