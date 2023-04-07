@@ -529,6 +529,14 @@
   file         = {:/home/jonas/PhD/readings/papers/PM/Pinto2018OptimalUncertainPM.pdf:PDF},
 }
 
+@Article{Hamdipoor2023SafeMergin,
+  author        = {Hamdipoor, Vahid and Meskin, Nader and Cassandras, Christos G},
+  booktitle     = {2023 American Control Conference (ACC)},
+  title         = {Safe Merging Control in Mixed Vehicular Traffic},
+  year          = {2023},
+  organization  = {IEEE}
+}
+
 @Article{hall2022optimal,
   author  = {Hall, Jonas and Andersson, Sean B and Cassandras, Christos G},
   journal = {arXiv preprint arXiv:2210.01294},
@@ -799,11 +807,21 @@
 }
 
 
-@article{wang2023spatio,
-  title={Spatio-Temporal Attention Network for Persistent Monitoring of Multiple Mobile Targets},
-  author={Wang, Yizhuo and Wang, Yutong and Cao, Yuhong and Sartoretti, Guillaume},
-  journal={arXiv preprint arXiv:2303.06350},
-  year={2023}
+@Article{wang2023spatio,
+  author  = {Wang, Yizhuo and Wang, Yutong and Cao, Yuhong and Sartoretti, Guillaume},
+  journal = {arXiv preprint arXiv:2303.06350},
+  title   = {Spatio-Temporal Attention Network for Persistent Monitoring of Multiple Mobile Targets},
+  year    = {2023},
+  file    = {:/home/jonas/PhD/readings/papers/PM/Wang2023MobileTargets.pdf:PDF},
+  groups  = {persistent monitoring},
+}
+
+@article{beaver2023IFAC,
+title = {A Graph-Based Approach to Generate Energy-Optimal Robot Trajectories in Polygonal Environments},
+journal = {IFAC-PapersOnLine (to appear)},
+year = {2023},
+note = {22nd IFAC World Congress (to appear)},
+author = {Beaver, Logan E and Tron, Roberto and Cassandras, Christos G}
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
