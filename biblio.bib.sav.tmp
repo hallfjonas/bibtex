@@ -315,7 +315,7 @@
   number    = {5},
   pages     = {1269--1278},
   volume    = {19},
-  file      = {:/home/jonas/PhD/readings/papers/PM/Shen2011TrackingParticles.pdf:PDF},
+  file      = {:/home/jonas/PhD/readings/papers/PM/Shen2011TrackingParticles.pdf:PDF;:/home/jonas/PhD/readings/papers/TargetTracking/Shen2011TrackingParticles.pdf:PDF},
   groups    = {persistent monitoring},
   publisher = {IEEE},
 }
@@ -794,10 +794,4 @@
   pages     = {757--762},
   volume    = {3},
   file      = {:/home/jonas/PhD/readings/papers/Safety/Lindemann2019Control_Barrier_Functions_for_Multi-Agent_Systems_Under_Conflicting_Local_Signal_Temporal_Logic_Tasks.pdf:PDF},
-  groups    = {CBFs},
-  publisher = {IEEE},
-}
-
-
-@Article{wang2023spatio,
-  author  = {Wa
+  grou

@@ -315,7 +315,7 @@
   number    = {5},
   pages     = {1269--1278},
   volume    = {19},
-  file      = {:/home/jonas/PhD/readings/papers/PM/Shen2011TrackingParticles.pdf:PDF},
+  file      = {:/home/jonas/PhD/readings/papers/TargetTracking/Shen2011TrackingParticles.pdf:PDF},
   groups    = {persistent monitoring},
   publisher = {IEEE},
 }
@@ -527,14 +527,6 @@
   organization = {IEEE},
   pages        = {4280--4285},
   file         = {:/home/jonas/PhD/readings/papers/PM/Pinto2018OptimalUncertainPM.pdf:PDF},
-}
-
-@Article{Hamdipoor2023SafeMergin,
-  author        = {Hamdipoor, Vahid and Meskin, Nader and Cassandras, Christos G},
-  booktitle     = {2023 American Control Conference (ACC)},
-  title         = {Safe Merging Control in Mixed Vehicular Traffic},
-  year          = {2023},
-  organization  = {IEEE}
 }
 
 @Article{hall2022optimal,
@@ -822,6 +814,15 @@ journal = {IFAC-PapersOnLine (to appear)},
 year = {2023},
 note = {22nd IFAC World Congress (to appear)},
 author = {Beaver, Logan E and Tron, Roberto and Cassandras, Christos G}
+}
+
+@Article{Hamdipoor2023SafeMergin,
+  author       = {Hamdipoor, Vahid and Meskin, Nader and Cassandras, Christos G},
+  title        = {Safe Merging Control in Mixed Vehicular Traffic},
+  year         = {2023},
+  booktitle    = {2023 American Control Conference (ACC)},
+  file         = {:/home/jonas/PhD/readings/papers/Safety/Hamdipoor2023MergingWithCBFs.pdf:PDF},
+  organization = {IEEE},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
